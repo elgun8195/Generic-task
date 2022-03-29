@@ -1,0 +1,14 @@
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.csproj.AssemblyReference.cache
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.AssemblyInfoInputs.cache
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.AssemblyInfo.cs
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.csproj.CoreCompileInputs.cache
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\bin\Debug\netcoreapp3.1\Generic types, collections, data structure.exe
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\bin\Debug\netcoreapp3.1\Generic types, collections, data structure.deps.json
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\bin\Debug\netcoreapp3.1\Generic types, collections, data structure.runtimeconfig.json
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\bin\Debug\netcoreapp3.1\Generic types, collections, data structure.runtimeconfig.dev.json
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\bin\Debug\netcoreapp3.1\Generic types, collections, data structure.dll
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\bin\Debug\netcoreapp3.1\Generic types, collections, data structure.pdb
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.dll
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.pdb
+C:\Users\Elgun\Desktop\Generic types, collections, data structure\Generic types, collections, data structure\obj\Debug\netcoreapp3.1\Generic types, collections, data structure.genruntimeconfig.cache
